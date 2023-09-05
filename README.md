@@ -1,2 +1,6 @@
 # GoogPortfoli
 My First Google Portfolio for The Introduction to Cybersecurity Course
+## Exemplar Professional Statement
+I was raised in a very tech-forward family, having a hacker/coder turned technical engineer for a father. Computer parts, code scribbles, and built systems littered our basement. He, at the center, typing away happily. I grew fond of technology, taking on any project I could. Learning everything from a simple frozen keypad, and SSD replacements, to even hacking systems to correct forgotten laptop passkeys. Knowing my knowledge in tech wasn't for naught, I enrolled in the Foundations of Cybersecurity course on Coursera. I use my perseverance and self-taught knowledge to push me through this course and I use techniques I've learned already to safeguard my systems And hope to score a career doing what I love and protect larger organizations from threat actors.
+## Drafted Professional Statement
+I am an ambitious and proactive cybersecurity analyst who grew up in a very tech-motivated home. I strive to protect the data and assets of myself and those around me. I use my self-taught and learned knowledge to safeguard the systems and data of organizations as well as people.
